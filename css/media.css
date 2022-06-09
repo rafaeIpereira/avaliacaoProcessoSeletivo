@@ -1,0 +1,101 @@
+@media screen and (max-width: 760px) {
+    .logo {
+        margin-right: 45%;
+    }
+
+    .menu {
+        display: block;
+        border: 1px solid #ABC7D3;
+        border-radius: 7px;
+        background-color: transparent;
+        color: rgba(255, 255, 255, 0.685);
+        padding: 8px;
+        font-size: 18px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-right: 1%;
+        width: 100px;
+        height: 46px;
+    }
+
+    .nav-list {
+        display: none;
+    }
+
+    .container {
+        margin-top: 18px;
+        margin-left: 4%;
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .two {
+        display: none;
+    }
+
+    h1 {
+        font-size: 16px;
+    }
+
+    .tel {
+        margin-left: 18px;
+    }
+
+    .email {
+        display: block;
+        margin-top: 30px;
+        margin-left: 18px;
+        padding: 12px;
+        height: 9px;
+        width: 44%;
+    }
+
+    .interesse {
+        display: none;
+    }
+
+    .interesse2 {
+        display: block;
+        margin-right: 12px;
+        margin-top: 36px;
+        margin-left: 16px;
+        padding-top: 10px;
+        padding-bottom: 150px;
+        width: 90%;
+    }
+
+    textarea {
+        display: block;
+        padding: 12px;
+        margin-top: 40px;
+        margin-left: 16px;
+        padding-top: 10px;
+        padding-bottom: 150px;
+        width: 80%;
+        border: 1px solid #ABC7D3;
+        border-radius: 7px;
+        margin: 5px;
+        resize: none;
+        overflow: hidden;
+        outline: 0;
+    }
+
+    .btn {
+        margin: 14px 0px 14px 78% ;
+       
+    }
+
+    .three {
+        width: 99%;
+        margin-top: 12px;
+    }
+
+    .footer-end {
+        width: 100%;
+    }
+
+    .footerBackground {
+        margin-left: 67%;
+    }
+
+}
